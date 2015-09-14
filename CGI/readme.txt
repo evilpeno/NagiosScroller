@@ -1,0 +1,1 @@
+Script must be copied into CGI script directory (ie : /usr/lib/nagios/cgi)
